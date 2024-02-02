@@ -2,6 +2,7 @@
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sabamgeliashvili.github.io/react-store-api/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,8 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build && npm run build:tailwind",
-    "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d build",
+    "build:tailwind": "tailwindcss build src/app.css -o build/static/css/tailwind.css"
   },
   "eslintConfig": {
     "extends": [
