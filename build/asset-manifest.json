@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-store-app/static/css/main.edf30a1e.css",
-    "main.js": "/react-store-app/static/js/main.61566d00.js",
-    "static/media/logo.png": "/react-store-app/static/media/logo.ec46210a6801a7cff52d.png",
-    "static/media/img1.jpeg": "/react-store-app/static/media/img1.34889c76f7ecd59f9ef4.jpeg",
-    "index.html": "/react-store-app/index.html",
-    "main.edf30a1e.css.map": "/react-store-app/static/css/main.edf30a1e.css.map",
-    "main.61566d00.js.map": "/react-store-app/static/js/main.61566d00.js.map"
+    "main.css": "./static/css/main.1e2eb086.css",
+    "main.js": "./static/js/main.6198275b.js",
+    "static/media/logo.png": "./static/media/logo.ec46210a6801a7cff52d.png",
+    "static/media/img1.jpeg": "./static/media/img1.34889c76f7ecd59f9ef4.jpeg",
+    "index.html": "./index.html",
+    "main.1e2eb086.css.map": "./static/css/main.1e2eb086.css.map",
+    "main.6198275b.js.map": "./static/js/main.6198275b.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf30a1e.css",
-    "static/js/main.61566d00.js"
+    "static/css/main.1e2eb086.css",
+    "static/js/main.6198275b.js"
   ]
 }
